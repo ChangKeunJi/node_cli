@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "bin": {
-    "nls": "index.js",
-    "tls":"test.js"
+    "nls": "index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0"
   }
 }
